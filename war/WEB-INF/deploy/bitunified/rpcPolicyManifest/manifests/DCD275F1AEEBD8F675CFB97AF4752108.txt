@@ -1,0 +1,2 @@
+serviceClass: com.bitunified.web.client.GreetingService
+path: 252AE0CFC8EE8CB76048A44AAA2E07C0.gwt.rpc
