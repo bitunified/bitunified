@@ -1,3 +1,2 @@
 # Module bitunified
 # RPC service class, partial path of RPC policy file
-com.bitunified.web.client.GreetingService, 252AE0CFC8EE8CB76048A44AAA2E07C0.gwt.rpc
